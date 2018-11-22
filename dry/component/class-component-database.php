@@ -9,7 +9,7 @@
  * @since     1.0.0
  */
 
-namespace Common_Files\Dry\Database;
+namespace Common_Files\Dry\Component;
 
 use Common_Files\{Interfaces\Database, Traits\Shared_Queries};
 
