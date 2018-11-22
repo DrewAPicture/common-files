@@ -2,7 +2,7 @@
 /**
  * Sets up the ability to run a variety of {component} queries
  *
- * @package   Common_Files\Dry\Database
+ * @package   Common_Files\Dry\Component
  * @copyright Copyright (c) 2018, Drew Jaynes
  * @license   http://opensource.org/licenses/gpl-2.0.php GNU Public License v2 or later
  * @author    Drew Jaynes
