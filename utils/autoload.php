@@ -4,7 +4,10 @@
  * file names whenever they are instantiated.
  *
  * Contains support for interfaces and traits, via either directory/namespace
- * structure or naming convention.
+ * structure or naming convention. For example:
+ * - interfaces/interface-database.php (namespace of Interfaces\Database)
+ * - interface-database.php (namespace of Interface_Database or Database_Interface)
+ * - and similar structure for traits
  *
  * This script is a fork of the the {@link https://github.com/tommcfarlin/simple-autoloader-for-wordpress Simple Autoloader for Wordpress}
  * by Tom McFarlin, licensed under GPLv3.
