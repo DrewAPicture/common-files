@@ -9,7 +9,7 @@
  * This script is a fork of the the {@link https://github.com/tommcfarlin/simple-autoloader-for-wordpress Simple Autoloader for Wordpress}
  * by Tom McFarlin, licensed under GPLv3.
  *
- * @package   Common_Files
+ * @package   Common_Files\Utils
  * @copyright Copyright (c) 2018, Drew Jaynes
  * @license   http://opensource.org/licenses/gpl-2.0.php GNU Public License v2 or later
  * @since     1.0.0
