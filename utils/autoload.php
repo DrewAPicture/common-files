@@ -12,6 +12,7 @@
  * @package   Common_Files\Utils
  * @copyright Copyright (c) 2018, Drew Jaynes
  * @license   http://opensource.org/licenses/gpl-2.0.php GNU Public License v2 or later
+ * @author    Drew Jaynes
  * @since     1.0.0
  */
 spl_autoload_register( function( $filename ) {
