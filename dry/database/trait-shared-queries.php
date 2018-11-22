@@ -12,6 +12,14 @@
 /**
  * Defines a set of methods to allow a has_* query to be cached (once) for later iteration.
  *
+ * Usage:
+ *
+ *     if ( $component->has_items( ...args ) {
+ *         // Iterate through the items from the now-cached query.
+ *         $items = $component->query( ...args );
+ *         ...
+ *     }
+ *
  * @since 1.0.0
  */
 trait Shared_Queries {
