@@ -60,12 +60,13 @@ trait Shared_Queries {
 	}
 
 	/**
-	 * Checks if the current store has any of the current items.
+	 * Checks if the current data store has any of the current items.
 	 *
 	 * @since 1.0.0
 	 *
 	 * @param array $args Optional. Arguments for querying for items. Default empty array.
-	 * @return bool Whether the current store has any of the current items according to the custom or default arguments.
+	 * @return bool Whether the current data store has any of the current items according
+	 *              to the custom or default arguments.
 	 */
 	public function has_items( $args = array() ) {
 		$this->set_current_query( $this->query( $args ) );
