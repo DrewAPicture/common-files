@@ -10,7 +10,7 @@
  */
 
 /**
- * Defines the CRUD methods all Database classes must have.
+ * Defines a set of methods to allow a has_* query to be cached (once) for later iteration.
  *
  * @since 1.0.0
  */
